@@ -73,7 +73,7 @@ __Math Tutor__, LDSBC
 
 
 `2017-2019`
-__Service Missionary__, Manchester New Hampshire
+__Service Missionary__, Manchester, New Hampshire
 
 
 
