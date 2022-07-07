@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Caleb Steenson's Resume
 ---
-#  Caleb STeenson
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+#  Caleb Steenson
+Student at Brighma Young University-Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -17,14 +17,9 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 ## Education
 
 `2025-2027`
-__LDS Business College__, Salt Lake City, UT
+__Brigham Young University-Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- 3.7 Major GPA
 
 
 ## Related Experience
@@ -77,8 +72,8 @@ __Pinnacle Management Group__,
 __Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2019`
+__Service Missionary__, Manchester New Hampshire
 
 
 
