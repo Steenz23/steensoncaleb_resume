@@ -3,7 +3,7 @@ layout: cv
 title: Caleb Steenson's Resume
 ---
 #  Caleb Steenson
-Student at Brighma Young University-Idaho
+Student at Brigham Young University-Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
