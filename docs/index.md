@@ -67,10 +67,6 @@ __Melaleuca__, Customer Service Rep
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
 `2017-2019`
 __Service Missionary__, Manchester, New Hampshire
 
