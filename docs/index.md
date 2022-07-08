@@ -20,32 +20,50 @@ __Brigham Young University-Idaho__, Rexburg, ID
 - 3.7 Major GPA
 
 
-## Related Experience
+## Specialized in
+
+Python Coding, MYSQL, Excel, Customer Service
 
 
-### Data Science Lead
+### Sales Representative                    
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`May 2020 – Aug. 2020 `
+__Vivant Solar__, Sales Manager
 
-- 
+-Developed and sustained relationships with customers, building rapport as a personable and trusted representative
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+-Improved communication and business skills
 
-- 
+### Landscape
+`Apr. 2014 – Aug. 2014`
+__Ryan Lawn Care__, Tech
 
-### Data Science Consulting Team
+-Landscaping and Lawn care for several businesses.
 
-`January 2027 - April 2027`
-__Imagine Learning__
+-Became precision and safety oriented 
 
-- 
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+### Construction Crew Member 
 
-- 
+`Apr. 2015 – Aug. 2017`
+__Ashir Construction Company__, Manager
+
+-Through various projects had experience building every aspect of homes, interior and exterior work
+
+-Improved skills in teamwork, leadership, and exactness in meeting standards 
+
+
+### Customer Service
+
+`May 2021 - Present`
+__Melaleuca__, Customer Service Rep
+
+-Lead over 10 people in helping them achieve goals
+
+-Developed self-discipline to work hard every day for long hours, improved listening skills and helping other overcome problems
+
+-Increased speaking, communication, and relating to people skills
+
 
 ## Service and Work History
 
