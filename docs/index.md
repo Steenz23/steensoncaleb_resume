@@ -24,6 +24,7 @@ __Brigham Young University-Idaho__, Rexburg, ID
 Python Coding, MYSQL, Excel, Customer Service
 
 
+
 ### Sales Representative                    
 
 `May 2020 – Aug. 2020 `
