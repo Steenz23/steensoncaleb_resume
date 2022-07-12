@@ -19,7 +19,6 @@ __Brigham Young University-Idaho__, Rexburg, ID
 
 - 3.7 Major GPA
 
-
 ## Specialized in
 
 Python Coding, MYSQL, Excel, Customer Service
