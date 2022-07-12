@@ -69,11 +69,3 @@ __Melaleuca__, Customer Service Rep
 
 `2017-2019`
 __Service Missionary__, Manchester, New Hampshire
-
-
-Please delete this
-<!-- ### Footer
-
-Last updated: July 2022 -->
-
-
